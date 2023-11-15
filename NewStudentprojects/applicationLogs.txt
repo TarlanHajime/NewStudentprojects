@@ -1,0 +1,51 @@
+Person logged by name: null null Time: 2023-09-09T02:38:24.853390
+Person logged by name: null null Time: 2023-09-09T02:56:07.047538300
+Added student with this id: 6 tarlan tarrrrrrrTime: 2023-09-09T02:56:34.925766
+Person logged by name: null null Time: 2023-09-09T15:54:43.619570700
+Person logged by name: null null Time: 2023-09-09T16:00:30.990447900
+Person logged by name: null null Time: 2023-09-09T16:02:38.213864700
+Person logged by name: null null Time: 2023-09-09T16:04:22.146011700
+Person logged by name: null null Time: 2023-09-09T16:05:57.005190400
+Person logged by name: Admin null Time: 2023-09-09T16:06:19.691911500
+Person logged by name: Admin null Time: 2023-09-09T17:44:43.874349700
+Person logged by name: Admin null Time: 2023-09-10T22:00:16.420117300
+Added student with this id: 7 student1 studentsurnameTime: 2023-09-10T22:00:45.416158600
+Person logged by name: Admin null Time: 2023-09-10T22:02:01.201658600
+Added student with this id: 8 stdu studTime: 2023-09-10T22:02:29.532617100
+Person logged by name: Admin null Time: 2023-09-10T22:14:43.689881300
+Person logged by name: Admin null Time: 2023-09-10T22:21:42.069022200
+Person logged by name: Tarlan Hajime Time: 2023-09-11T01:20:08.716007
+Person logged by name: Tarlan Hajime Time: 2023-09-11T02:03:18.348968300
+Person logged by name: Tarlan Hajime Time: 2023-09-11T02:15:11.849863100
+Person logged by name: Tarlan Hajime Time: 2023-09-11T02:25:09.151647400
+Person logged by name: Tarlan Hajime Time: 2023-09-11T02:38:40.663408700
+Added teacher with this id: 3 teacher teacTime: 2023-09-11T02:39:19.708708
+Person logged by name: Tarlan Hajime Time: 2023-09-11T22:20:39.304935100
+Person logged by name: Tarlan Hajime Time: 2023-09-11T22:22:45.248662400
+Person logged by name: Tarlan Hajime Time: 2023-09-11T23:41:48.390426800
+Person logged by name: Tarlan Hajime Time: 2023-09-12T00:33:24.984559400
+Person logged by name: Tarlan Hajime Time: 2023-09-12T00:33:40.196262400
+Person logged by name: Tarlan Hajime Time: 2023-09-12T00:34:26.576880600
+Person logged by name: Tarlan Hajime Time: 2023-09-12T00:36:24.319802500
+Person logged by name: Tarlan Hajime Time: 2023-09-12T00:38:36.775561300
+Person logged by name: Tarlan Hajime Time: 2023-09-12T00:38:50.825336600
+Person logged by name: Tarlan Hajime Time: 2023-09-12T00:39:23.474111400
+Added student with this id: 4 stud studeTime: 2023-09-12T00:40:13.992161700
+Person logged by name: Tarlan Hajime Time: 2023-09-12T00:42:54.219648100
+Person logged by name: Tarlan Hajime Time: 2023-09-12T00:44:39.119331900
+User deleted with this id: 3 stud studeTime: 2023-09-12T00:44:58.442367400
+Person logged by name: Tarlan Hajime Time: 2023-09-12T00:45:56.899687200
+User deleted with this id: 3 stud studeTime: 2023-09-12T00:46:08.973536700
+Person logged by name: Tarlan Hajime Time: 2023-09-12T00:46:20.574735
+User deleted with this id: 3 stud studeTime: 2023-09-12T00:46:53.254776500
+Person logged by name: Tarlan Hajime Time: 2023-09-12T00:47:14.256919200
+Person logged by name: Tarlan Hajime Time: 2023-09-12T00:47:40.074562400
+Person logged by name: Tarlan Hajime Time: 2023-09-12T00:48:01.199395900
+Person logged by name: Tarlan Hajime Time: 2023-09-12T00:48:45.111061600
+Person logged by name: teacher teacher Time: 2023-09-12T00:51:21.929114500
+Person logged by name: teacher teacher Time: 2023-09-12T00:51:48.502251100
+Person logged by name: teacher teacher Time: 2023-09-12T00:52:01.571116100
+Person logged by name: teacher teacher Time: 2023-09-12T00:52:19.601825600
+Person logged by name: teacher teacher Time: 2023-09-12T00:52:42.994795900
+Person logged by name: teacher teacher Time: 2023-09-12T00:53:35.619598300
+Person logged by name: teacher teacher Time: 2023-09-12T00:53:51.937725100
